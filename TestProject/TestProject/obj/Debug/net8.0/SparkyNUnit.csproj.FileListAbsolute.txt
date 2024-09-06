@@ -100,3 +100,9 @@ E:\C# VIsual Studio\Testing\TestProject\TestProject\obj\Debug\net8.0\refint\Spar
 E:\C# VIsual Studio\Testing\TestProject\TestProject\obj\Debug\net8.0\SparkyNUnit.pdb
 E:\C# VIsual Studio\Testing\TestProject\TestProject\obj\Debug\net8.0\SparkyNUnit.genruntimeconfig.cache
 E:\C# VIsual Studio\Testing\TestProject\TestProject\obj\Debug\net8.0\ref\SparkyNUnit.dll
+E:\C# VIsual Studio\Testing\TestProject\TestProject\obj\Debug\net8.0\SparkyNUnit.sourcelink.json
+E:\C# VIsual Studio\Testing\TestProject\TestProject\bin\Debug\net8.0\Castle.Core.dll
+E:\C# VIsual Studio\Testing\TestProject\TestProject\bin\Debug\net8.0\Moq.dll
+E:\C# VIsual Studio\Testing\TestProject\TestProject\bin\Debug\net8.0\System.Diagnostics.EventLog.dll
+E:\C# VIsual Studio\Testing\TestProject\TestProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+E:\C# VIsual Studio\Testing\TestProject\TestProject\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll

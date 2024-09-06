@@ -21,6 +21,9 @@ namespace Sparky
         public bool Deposit(int amount)
         {
             _logBook.Message("LogBook: Deposit called with " + amount);
+            _logBook.Message("Test");
+            _logBook.LogSeverity = 100;
+            var temp = _logBook.LogSeverity;
             balance += amount;
             return true;
         }
@@ -31,10 +34,10 @@ namespace Sparky
             {
                 _logBook.Message("LogBook: Withdraw called with " + amount);
                 balance -= amount;
-                return true;
+                return _logBook.LogBalanceAfterWithdrawal(balance); 
             }
             _logBook.Message("LogBook: Insufficient funds!"); 
-            return false;
+            return _logBook.LogBalanceAfterWithdrawal(balance - amount);
         }
 
         public int GetBalance()

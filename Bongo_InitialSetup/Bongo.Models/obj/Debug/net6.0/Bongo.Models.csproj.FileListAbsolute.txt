@@ -1,0 +1,12 @@
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\bin\Debug\net6.0\Bongo.Models.deps.json
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\bin\Debug\net6.0\Bongo.Models.dll
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\bin\Debug\net6.0\Bongo.Models.pdb
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\Bongo.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\Bongo.Models.AssemblyInfoInputs.cache
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\Bongo.Models.AssemblyInfo.cs
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\Bongo.Models.csproj.CoreCompileInputs.cache
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\Bongo.Models.sourcelink.json
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\Bongo.Models.dll
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\refint\Bongo.Models.dll
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\Bongo.Models.pdb
+E:\C# VIsual Studio\Testing\Bongo_InitialSetup\Bongo.Models\obj\Debug\net6.0\ref\Bongo.Models.dll
